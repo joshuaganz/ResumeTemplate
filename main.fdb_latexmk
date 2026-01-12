@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1768228633.19299 "g:/ResumeTemplate/main.tex" "main.pdf" "main" 1768228634.04313 0
+["pdflatex"] 1768228881.36849 "g:/ResumeTemplate/main.tex" "main.pdf" "main" 1768228882.1113 0
   "C:/Users/Joshua/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768228232 82039 32c00b46ec68f3ddea0147d75839907f ""
   "C:/Users/Joshua/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1768228164 13333971 aa7b0144181938bdb6cb5d900316f88d ""
   "C:/Users/Joshua/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -105,10 +105,10 @@
   "C:/Users/Joshua/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1761901070 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/Joshua/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1761901070 7532 26d26e9d8f2ca784270d5da8ec7d102b ""
   "C:/Users/Joshua/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "g:/ResumeTemplate/main.tex" 1768228632 6391 db5b47bfb9d0df49ff23044db777c9c0 ""
-  "main.aux" 1768228633 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "main.out" 1768228633 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "main.tex" 1768228632 6391 db5b47bfb9d0df49ff23044db777c9c0 ""
+  "g:/ResumeTemplate/main.tex" 1768228880 6411 9d9f7c15f321db8b3d02b31d32fb356e ""
+  "main.aux" 1768228881 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "main.out" 1768228881 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "main.tex" 1768228880 6411 9d9f7c15f321db8b3d02b31d32fb356e ""
   (generated)
   "main.aux"
   "main.log"
